@@ -1,2 +1,7 @@
 # interview-questions
-random interview questions that i have been asked
+
+#
+
+KU
+
+## Tell me a recent project you worked on (i kinda forgot what the interviewer said but it was something along these lines)
